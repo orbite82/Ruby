@@ -1,4 +1,4 @@
-day = 'Holiday'
+day = 'Sunday'
 
 if day == 'Sunday'
   lunch = 'special'

@@ -44,3 +44,22 @@ https://jekyllrb.com/docs/
 
 ---
 
+# Saidas elsif
+
+```
+┌─[torbite]@[BIO-02059]:~/Documents/RUBY
+└──> $ ruby elsif.rb 
+
+Lunch is later today
+┌─[torbite]@[BIO-02059]:~/Documents/RUBY
+└──> $ ruby elsif2.rb 
+Lunch is normal today
+
+┌─[torbite]@[BIO-02059]:~/Documents/RUBY
+└──> $ ruby elsif3.rb 
+Lunch is special today
+
+```
+
+
+
